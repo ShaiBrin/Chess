@@ -1,0 +1,19 @@
+package Enums;
+
+/**
+ * 
+ * @author Ishr_
+ *
+ */
+public enum KnightDirections {
+	UP_VERTICAL_RIGHT, 
+	UP_VERTICAL_LEFT,
+	UP_HORIZONTAL_RIGHT,
+	UP_HORIZONTAL_LEFT,
+	
+	DOWN_VERTICAL_RIGHT, 
+	DOWN_VERTICAL_LEFT,
+	DOWN_HORIZONTAL_RIGHT,
+	DOWN_HORIZONTAL_LEFT,
+	
+}
